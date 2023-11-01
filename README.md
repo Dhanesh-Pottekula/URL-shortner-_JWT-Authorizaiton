@@ -14,4 +14,5 @@ ShortURL is a Node.js web application that allows users to shorten long URLs and
 ## Usage
 
 To use this application, you need to install Node.js and the required dependencies.
-search for http://localhost:3006/login to login 
+Go to http://localhost:3006/login to login 
+if you are a new user go to http://localhost:3006/signup
